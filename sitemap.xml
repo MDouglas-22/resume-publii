@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/MDouglas-22/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://mdouglas-22.github.io/resume-publii/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/MDouglas-22/</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/</loc>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/education.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/education.html</loc>
 <lastmod>2024-12-23T16:00:43-06:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/professional-experience-2.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/professional-experience-2.html</loc>
 <lastmod>2024-12-23T15:11:46-06:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/professional-experience.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/professional-experience.html</loc>
 <lastmod>2024-12-23T15:06:34-06:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/related-achievements.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/related-achievements.html</loc>
 <lastmod>2024-12-23T15:58:54-06:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/skills.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/skills.html</loc>
 <lastmod>2024-12-23T15:59:19-06:00</lastmod>
 </url>
 <url>
-<loc>https://github.com/MDouglas-22/software-programs-and-tools.html</loc>
+<loc>https://mdouglas-22.github.io/resume-publii/software-programs-and-tools.html</loc>
 <lastmod>2024-12-23T15:59:39-06:00</lastmod>
 </url>
 </urlset>

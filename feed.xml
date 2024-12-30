@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Doug Hammack: Resume</title>
-    <link href="https://github.com/MDouglas-22/feed.xml" rel="self" />
-    <link href="https://github.com/MDouglas-22" />
+    <link href="https://mdouglas-22.github.io/resume-publii/feed.xml" rel="self" />
+    <link href="https://mdouglas-22.github.io/resume-publii" />
     <updated>2024-12-23T16:00:43-06:00</updated>
     <author>
         <name>Doug Hammack</name>
     </author>
-    <id>https://github.com/MDouglas-22</id>
+    <id>https://mdouglas-22.github.io/resume-publii</id>
 
     <entry>
         <title>Education</title>
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://github.com/MDouglas-22/education.html"/>
-        <id>https://github.com/MDouglas-22/education.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/education.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/education.html</id>
 
         <updated>2024-12-23T16:00:43-06:00</updated>
             <summary>
@@ -46,8 +46,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://github.com/MDouglas-22/software-programs-and-tools.html"/>
-        <id>https://github.com/MDouglas-22/software-programs-and-tools.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/software-programs-and-tools.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/software-programs-and-tools.html</id>
 
         <updated>2024-12-23T15:59:39-06:00</updated>
             <summary>
@@ -74,8 +74,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://github.com/MDouglas-22/skills.html"/>
-        <id>https://github.com/MDouglas-22/skills.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/skills.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/skills.html</id>
 
         <updated>2024-12-23T15:59:19-06:00</updated>
             <summary>
@@ -101,8 +101,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://github.com/MDouglas-22/related-achievements.html"/>
-        <id>https://github.com/MDouglas-22/related-achievements.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/related-achievements.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/related-achievements.html</id>
 
         <updated>2024-12-23T15:58:54-06:00</updated>
             <summary>
@@ -129,8 +129,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://github.com/MDouglas-22/professional-experience.html"/>
-        <id>https://github.com/MDouglas-22/professional-experience.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/professional-experience.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/professional-experience.html</id>
 
         <updated>2024-12-23T15:06:34-06:00</updated>
             <summary>
