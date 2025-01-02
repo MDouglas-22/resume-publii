@@ -3,19 +3,53 @@
     <title>Doug Hammack: Resume</title>
     <link href="https://mdouglas-22.github.io/resume-publii/feed.xml" rel="self" />
     <link href="https://mdouglas-22.github.io/resume-publii" />
-    <updated>2024-12-23T16:00:43-06:00</updated>
+    <updated>2025-01-02T13:38:16-06:00</updated>
     <author>
         <name>Doug Hammack</name>
     </author>
     <id>https://mdouglas-22.github.io/resume-publii</id>
 
     <entry>
+        <title>Examples</title>
+        <author>
+            <name>Doug Hammack</name>
+        </author>
+        <link href="https://mdouglas-22.github.io/resume-publii/examples/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/examples/index.html</id>
+
+        <updated>2025-01-02T12:42:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Home Retail Washer: Commercial Washer: Maternal-Infant Medical Devices Maternal-Fetal Monitor User Manual Infant Care Shuttle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--highlight  msg--success">Home Retail Washer:</p>
+<ul>
+<li><a href="https://docs.alliancelaundry.com/tech_pdf/Production/204104en.pdf" title="Washer Installation Manual" target="_blank" rel="noopener noreferrer">Installation Manual</a></li>
+<li><a href="https://docs.alliancelaundry.com/tech_pdf/Production/204646en.pdf" title="Washer User's Guide" target="_blank" rel="noopener noreferrer">User's Guide</a></li>
+</ul>
+<p class="msg msg--success">Commercial Washer:</p>
+<ul>
+<li><a href="https://docs.alliancelaundry.com/tech_pdf/Production/806514en.pdf" title="Washer Install/Op Manual" target="_blank" rel="noopener noreferrer">Installation/Operation Manual</a></li>
+<li><a href="https://docs.alliancelaundry.com/tech_pdf/Production/806147en.pdf" title="Washer Programming Manual" target="_blank" rel="noopener noreferrer">Programming Manual</a></li>
+</ul>
+<p class="msg msg--success">Maternal-Infant Medical Devices</p>
+<ul>
+<li><a href="https://www.gehealthcare.com/support/manuals?search=eyJzZWFyY2hUZXJtIjoiMjAzNjk0Ni0wMDEiLCJsYW5ndWFnZU5hbWUiOiJFbmdsaXNoIChFTikifQ%3D%3D" title="Monitor User Manual" target="_blank" rel="noopener noreferrer">Maternal-Fetal Monitor User Manual</a></li>
+<li><a href="https://www.gehealthcare.com/support/manuals?search=eyJzZWFyY2hUZXJtIjoiMjEwOTgyOS0wMDEiLCJsYW5ndWFnZU5hbWUiOiJFbmdsaXNoIChFTikifQ%3D%3D" title="Infant Care Addendum" target="_blank" rel="noopener noreferrer">Infant Care Shuttle Addendum</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Education</title>
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://mdouglas-22.github.io/resume-publii/education.html"/>
-        <id>https://mdouglas-22.github.io/resume-publii/education.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/education/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/education/index.html</id>
 
         <updated>2024-12-23T16:00:43-06:00</updated>
             <summary>
@@ -46,8 +80,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://mdouglas-22.github.io/resume-publii/software-programs-and-tools.html"/>
-        <id>https://mdouglas-22.github.io/resume-publii/software-programs-and-tools.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/software-programs-and-tools/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/software-programs-and-tools/index.html</id>
 
         <updated>2024-12-23T15:59:39-06:00</updated>
             <summary>
@@ -74,8 +108,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://mdouglas-22.github.io/resume-publii/skills.html"/>
-        <id>https://mdouglas-22.github.io/resume-publii/skills.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/skills/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/skills/index.html</id>
 
         <updated>2024-12-23T15:59:19-06:00</updated>
             <summary>
@@ -101,8 +135,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://mdouglas-22.github.io/resume-publii/related-achievements.html"/>
-        <id>https://mdouglas-22.github.io/resume-publii/related-achievements.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/related-achievements/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/related-achievements/index.html</id>
 
         <updated>2024-12-23T15:58:54-06:00</updated>
             <summary>
@@ -129,8 +163,8 @@
         <author>
             <name>Doug Hammack</name>
         </author>
-        <link href="https://mdouglas-22.github.io/resume-publii/professional-experience.html"/>
-        <id>https://mdouglas-22.github.io/resume-publii/professional-experience.html</id>
+        <link href="https://mdouglas-22.github.io/resume-publii/professional-experience/index.html"/>
+        <id>https://mdouglas-22.github.io/resume-publii/professional-experience/index.html</id>
 
         <updated>2024-12-23T15:06:34-06:00</updated>
             <summary>
